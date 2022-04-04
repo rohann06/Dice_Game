@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(53, 54, 54);
+}
+
+h1{
+    font-size: 7rem;
+    font-family :'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 10rem;
+    color: rgb(162, 236, 236);
+}
+
+.dice{
+    display: flex;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.p1{
+    padding: 10px;
+    flex: 50%;
+}
+.p2{
+    padding: 10px;
+    flex: 50%;
+}
